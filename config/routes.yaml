@@ -1,0 +1,10 @@
+#
+#customer_list:
+#    path: /api/customers
+#    controller: CustomerController::indexAction
+#    methods: [GET]
+
+#customer_create:
+#  path: /api/customers
+#  controller: App\Controller\CustomerController::createAction
+#  methods: [POST]
